@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pandas
+matplotlib
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
